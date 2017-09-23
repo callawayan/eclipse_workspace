@@ -1,0 +1,15 @@
+Asus Memo Pad Results
+43 number = 93 seconds
+Galaxy S3 Computer
+43 number = 28 seconds
+
+Asus Memo Pad
+41 = 35 sec
+Moms S3
+41 = 38
+
+<15 secs Very Fast
+<40 secs Fast
+<50 secs Average
+<64 secs slow
+>65 secs very slow
